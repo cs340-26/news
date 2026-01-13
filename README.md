@@ -10,17 +10,14 @@
 # Class 1 (Jan 20)
   * Do the [first task](https://github.com/cs340-26/news/blob/master/Preliminary.md)
 
-# Lecture [recordings/Zoom](https://drive.google.com/drive/folders/1j9MJACoORg95uyqk4VF5QUdd3ZTENQw_?usp=sharing)
-
-   - Zoom bridge https://tennessee.zoom.us/j/84879737349
 
 # Syllabus for "Software Engineering"
 
 * **Course:** [COSCS-340]
-* ** TuTh  11:20AM-12:35PM 	MKB-405, Online Zoom bridge TBD
+* ** TuTh  11:20AM-12:35PM 	MKB-405
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** TBD
+* **TAs:** Zach McMichael
 * Zoom Link for office hours: TBD
 * **Discord:** TBD
 * **Need help?**
