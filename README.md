@@ -17,7 +17,7 @@
 * ** TuTh  11:20AM-12:35PM 	MKB-405
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** Zach McMichael
+* **TAs:** Zach McMichael [email](jmcmicha@vols.utk.edu) office hours - on request
 * Zoom Link for office hours: TBD
 * **Discord:** TBD
 * **Need help?**
@@ -30,7 +30,7 @@ Simple rules:
      - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/cs340-26/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
 1. Look through [issues](https://github.com/cs340-26/news/issues)
-1. Post the question as an issue.
+1. Post the question as an issue and assign to @mickidymick 
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
 
