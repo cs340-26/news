@@ -3,7 +3,9 @@
   - Do Task 2 if you have not done it yet! 
   - Accept GH invite to class group
   - Will continue git lecture
-    
+  - Class project lecture
+  - Present teasers Please add your teaser here: https://github.com/cs340-26/teasers
+
 
 # Class 2 (Jan 22)
   - Do Task 1 if you have not done it yet! 
