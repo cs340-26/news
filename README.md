@@ -1,6 +1,14 @@
+# Class 3 (Jan 27)
+  - Via zoom due to inclemental weather https://tennessee.zoom.us/j/84208115549
+  - Do Task 2 if you have not done it yet! 
+  - Accept GH invite to class group
+  - Will continue git lecture
+  - Class project lecture
+  - Present teasers Please add your teaser here: https://github.com/cs340-26/teasers
+
 
 # Class 2 (Jan 22)
-  - Do Task 1 if you have not done it yet! Only 30 out of 64 complete
+  - Do Task 1 if you have not done it yet! 
   - Accept GH invite to class group
   - Fix merge conflicts if your PR was not accepted
   * Do the [second task](https://github.com/cs340-26/news/blob/master/Preliminary.md)
@@ -17,7 +25,7 @@
 * ** TuTh  11:20AM-12:35PM 	MKB-405
 * **Instructor:** Audris Mockus,
   [audris@utk.edu](mailto:audris@utk.edu) office hours - on request
-* **TAs:** Zach McMichael
+* **TAs:** Zach McMichael [email](jmcmicha@vols.utk.edu) office hours - on request
 * Zoom Link for office hours: TBD
 * **Discord:** TBD
 * **Need help?**
@@ -30,7 +38,7 @@ Simple rules:
      - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/cs340-26/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
 1. Look through [issues](https://github.com/cs340-26/news/issues)
-1. Post the question as an issue.
+1. Post the question as an issue and assign to @mickidymick 
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
 

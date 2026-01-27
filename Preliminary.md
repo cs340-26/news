@@ -35,10 +35,10 @@ to ask a question – just mention `@audris` with the question to make
 sure we will know to look at it sooner.
 
 
-## Task 2: Due Jan 28: Github Milestone, open an issue, and assign it to yourself
+## Task 2: Due Jan 27: Github Milestone, open an issue, and assign it to yourself
 
 The milestone should be for the repo cs340-26/test
-and named netid_git, with a deadline for January 28.
+and named netid_git, with a deadline for January 27.
 
 The issue should ask:
 
@@ -47,4 +47,4 @@ Explain the differences among github fork, git clone, and git branch
 Commit the result (the narrative explaining the differences)
 in the test repo under your UTK netid.md.
 
-Please submit the URL of the milestone/netid.md in Canvas - [Assignment 2](https://utk.instructure.com/courses/218221/assignments/2229677).
+Please submit the URL of the milestone/netid.md in Canvas - as Assignment 2.
