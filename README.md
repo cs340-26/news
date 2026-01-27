@@ -1,6 +1,12 @@
+# Class 3 (Jan 27)
+  - Via zoom due to inclemental weather https://tennessee.zoom.us/j/84208115549
+  - Do Task 2 if you have not done it yet! 
+  - Accept GH invite to class group
+  - Will continue git lecture
+    
 
 # Class 2 (Jan 22)
-  - Do Task 1 if you have not done it yet! Only 30 out of 64 complete
+  - Do Task 1 if you have not done it yet! 
   - Accept GH invite to class group
   - Fix merge conflicts if your PR was not accepted
   * Do the [second task](https://github.com/cs340-26/news/blob/master/Preliminary.md)
