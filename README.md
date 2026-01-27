@@ -19,6 +19,7 @@
 
 # Class 3 (Jan 27)
   - Via zoom due to inclemental weather https://tennessee.zoom.us/j/84208115549
+  - Summary and recording at: https://github.com/cs340-26/lectures/recordings.md
   - Do Task 2 if you have not done it yet! 
   - Accept GH invite to class group
   - Will continue git lecture
