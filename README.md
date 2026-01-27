@@ -1,3 +1,22 @@
+# Class 9 (Feb 12)
+    - Work on project proposal
+
+# Class 8 (Feb 10)
+    - Work on project proposal
+
+# Class 7 (Feb 5)
+    - Architecture
+
+# Class 5 (Feb 3)
+    - Finalize teams
+	- Project Proposal
+
+# Class 4 (Jan 29)
+  - Present teasers
+        Each teaser will be briefly presented, if anyone want to join, please speak out
+        After each teaser is presented I will ask anyone without the project team to speak out
+        I will create a gh team for each project and assign the first listed participant to add the remaining team members
+
 # Class 3 (Jan 27)
   - Via zoom due to inclemental weather https://tennessee.zoom.us/j/84208115549
   - Do Task 2 if you have not done it yet! 
