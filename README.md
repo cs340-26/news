@@ -1,17 +1,26 @@
 # Class 9 (Feb 12)
-    - Work on project proposal
+   - Work on project proposal
 
 # Class 8 (Feb 10)
-    - Work on project proposal
+   - Work on project proposal
 
 # Class 7 (Feb 5)
-    - Architecture
+   - Software Architecture
 
 # Class 5 (Feb 3)
-    - Finalize teams
-	- Project Proposal
+  - Finalize teams (extremely important to attend in person)
+  - The result:
+      - I expect for each team to create an .md file in teasers repo
+      - With a file name BreiefProjectName_FINAL.md
+      - Containing
+         - a full title
+         - a sentence on what the project is about
+		 - a list of team members
+	  - the content of the file will have to go to the assignment in Canvas
+  
 
 # Class 4 (Jan 29)
+  - What is Project Proposal?
   - Present teasers
         Each teaser will be briefly presented, if anyone want to join, please speak out
         After each teaser is presented I will ask anyone without the project team to speak out
