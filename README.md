@@ -8,7 +8,7 @@
    - Software Architecture
 
 # Class 5 (Feb 3)
-  - Finalize teams (extremely important to attend in person)
+  - Finalize teams (extremely important to attend in person: attendance will be tracked)
   - The result:
       - I expect for each team to create an .md file in teasers repo
       - With a file name BreiefProjectName_FINAL.md
