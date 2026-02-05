@@ -1,5 +1,7 @@
 # Class 10 (Feb 17)
    - Project proposal is due
+   - Place in yourproject/proposal.md
+   - [Instructions](https://github.com/cs340-26/lectures/blob/main/project_proposal.pdf)
 
      
 # Class 9 (Feb 12)
