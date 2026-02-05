@@ -1,3 +1,7 @@
+# Class 10 (Feb 17)
+   - Project proposal is due
+
+     
 # Class 9 (Feb 12)
    - Work on project proposal
 
