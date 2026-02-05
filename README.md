@@ -10,8 +10,8 @@
 
 # Class 7 (Feb 5)
    - Software Architecture
-   - still do not have project for: ayoquitthat asworthington JadenH04 CooperW26 egoodpasture mosopeafolabi magnutog12 smanoj-tech stefs2 sejalv20 TripleTx3 thohmhahs
-
+   - [Final project assignments](https://github.com/cs340-26/teasers/blob/main/Net2Prj.md)
+     
 # Class 5 (Feb 3)
   - Finalize teams (extremely important to attend in person: attendance will be tracked)
   - The result:
