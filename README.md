@@ -1,3 +1,10 @@
+# Class 13 (Feb 26)
+  - Continue the lecture on process.
+
+# Class 12 (Feb 24)
+  - Deadline to fix the proposal. The feedback is in grade.md
+  - Continue the lecture on process.
+
 # Class 11 (Feb 19)
   - Lecture on process
   - 1st and 2nd sprint are set up on the team's repo
