@@ -7,7 +7,7 @@
 
 # Class 11 (Feb 19)
   - Lecture on process
-  - The deadline for the 1st and 2nd sprint to be set up on the team's repo with each team member having an issue describing the task assigned to them for each sprint (completed for the first sprint and ongoing for the second sprint) 
+  - The deadline for the 1st and 2nd sprint to be set up on the team's repo with each team member having an issue describing the task assigned to them for each sprint (completed for the first sprint and ongoing for the second sprint) [As of 9:20 of Feb 19](https://github.com/cs340-26/students/blob/main/milestones_issues.csv)
 
 # Class 10 (Feb 17)
    - Project proposal is due
