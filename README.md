@@ -1,5 +1,18 @@
+# Class 16-17 (March 17,19)
+   - Demos for the minimum viable system
+
+# Class 15 (March 5)
+   - Finish the lecture on quality.
+  
+# Class 14 (March 3)
+  - Be ready for scrum
+  - For Sprint 3, there should be at least **two user story** issues per project. Issue title should start with "User Story XXX."
+  - Continue the lecture on quality.
+    
+
 # Class 13 (Feb 26)
-  - Continue the lecture on process.
+  - Continue the lecture on quality.
+  - Autograding of the proposal is completed (see grade..md), still awaits manual grading.
 
 # Class 12 (Feb 24)
   - Deadline to fix the proposal. The feedback is in grade.md
