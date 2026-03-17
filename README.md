@@ -1,5 +1,6 @@
 # Class 21, 22 (Apr 7, 9)
    - Instructions for the final report
+   - [Sign up for the finl presentation](https://github.com/cs340-26/news/issues/2)
 
 # Class 18-20 (March 24,26, 31)
    - No lecture
