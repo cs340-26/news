@@ -1,5 +1,17 @@
+# Class 21, 22 (Apr 7, 9)
+   - Instructions for the final report
+
+# Class 18-20 (March 24,26, 31)
+   - No lecture
+   - work with your team on the Sprint 4
+   - create various kinds of tests
+   - Sprint 5 starts on March 31 ends on Apr 14
+
 # Class 16-17 (March 17,19)
+   - Attendance required
    - Demos for the minimum viable system
+   - Finish validation/verification lecture
+   - Sprint 4 starts (deadline March 31)
 
 # Class 15 (March 5)
    - Finish the lecture on quality.
@@ -7,12 +19,11 @@
 # Class 14 (March 3)
   - Be ready for scrum
   - For Sprint 3, there should be at least **two user story** issues per project. Issue title should start with "User Story XXX."
-  - Continue the lecture on quality.
-    
+  - Continue the lecture on quality.    
 
 # Class 13 (Feb 26)
   - Continue the lecture on quality.
-  - Autograding of the proposal is completed (see grade..md), still awaits manual grading.
+  - Autograding of the proposal is completed (see grade.md).
 
 # Class 12 (Feb 24)
   - Deadline to fix the proposal. The feedback is in grade.md
