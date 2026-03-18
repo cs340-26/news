@@ -13,6 +13,7 @@
    - Demos for the minimum viable system
    - Finish validation/verification lecture
    - Sprint 4 starts (deadline March 31)
+   - Initial code quality assessment is in code_quality.md in your repo
 
 # Class 15 (March 5)
    - Finish the lecture on quality.
