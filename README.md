@@ -7,6 +7,8 @@
    - work with your team on the Sprint 4
    - create various kinds of tests
    - Sprint 5 starts on March 31 ends on Apr 14
+   - March 24 - deadline to have source code (for evaluation)
+   - March 31 - Deadline to have tests (for evaluation)
 
 # Class 16-17 (March 17,19)
    - Attendance required
@@ -14,6 +16,7 @@
    - Finish validation/verification lecture
    - Sprint 4 starts (deadline March 31)
    - Initial code quality assessment is in code_quality.md in your repo
+
 
 # Class 15 (March 5)
    - Finish the lecture on quality.
