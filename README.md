@@ -8,6 +8,8 @@
    - create various kinds of tests
    - Sprint 5 starts on March 31 ends on Apr 14
    - March 24 - deadline to have source code (for evaluation)
+   - March 29 - User stores re-graded in us_re-grade.md (some still poor, please fix)
+   - March 29 - source code quality initial grade in code_quality_grade.md, please work on improvements: most have tests missing (due March 31)
    - March 31 - Deadline to have tests (for evaluation)
 
 # Class 16-17 (March 17,19)
