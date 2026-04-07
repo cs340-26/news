@@ -6,6 +6,7 @@ Assignments (still outstanding)
     Code quality
     Testing
     Process
+    Each sprint has each member assigned an issue
 
 	
 # Class 18-20 (March 24,26, 31)
