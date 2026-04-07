@@ -1,7 +1,13 @@
 # Class 21, 22 (Apr 7, 9)
    - Instructions for the [final report](https://github.com/cs340-26/lectures/blob/main/project_final_report.pdf)
    - [Sign up for the final presentation](https://github.com/cs340-26/news/issues/2)
+Assignments (still outstanding)
+	User story
+    Code quality
+    Testing
+    Process
 
+	
 # Class 18-20 (March 24,26, 31)
    - No lecture
    - work with your team on the Sprint 4
