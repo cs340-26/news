@@ -16,7 +16,7 @@
 
 # Class 23-24 (Apr 14, 16)
    - No lecture
-   - Sprint 5 starts
+   - Sprint 6 starts
    - Finish tests
 
 
