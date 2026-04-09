@@ -27,11 +27,11 @@
    - Instructions for the [final report](https://github.com/cs340-26/lectures/blob/main/project_final_report.pdf)
    - [Sign up for the final presentation](https://github.com/cs340-26/news/issues/2)
 Assignments (still outstanding)
-	User story - final April 10
-    Code quality - final April 10
-    Testing  - final April 16
-    Process (issues/sprints)  - May 6
-		Each sprint has each member assigned an issue
+	  - User story - final April 10
+      - Code quality - final April 10
+      - Testing  - final April 16
+      - Process (issues/sprints)  - May 6
+	   	    Each sprint has each member assigned an issue
 
 	
 # Class 18-20 (March 24,26, 31)
