@@ -9,9 +9,14 @@
    - Financial Agent
    - Let-us-cook
    - Hold Your Ground Studio
-   
-# Class 25-26 (Apr 21, 23)
-   - Lectures on software measurement and other topics
+   - Unity Game
+   - Guardian Angel
+
+# Class 26 (Apr 23)
+   - Lecture on software measurement
+
+# Class 25 (Apr 21)
+   - Lecture on software measurement
 
 
 # Class 23-24 (Apr 14, 16)
