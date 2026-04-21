@@ -4,10 +4,10 @@
    - LockIn Studio
    - Threaddit
    - Network Gurus
+   - Let-us-cook
 
 # Apr 30 class project presentations
    - Financial Agent
-   - Let-us-cook
    - Hold Your Ground Studio
    - Unity Game
    - Guardian Angel
