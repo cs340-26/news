@@ -1,3 +1,5 @@
+# Final report due: before Thursday, May 14
+
 # May 5 class project presentations
    - Mystery Gang 
    - OpenCourt
