@@ -18,8 +18,7 @@
    - Lecture on software measurement
 
 # Class 25 (Apr 21)
-   - Lecture on software measurement
-
+   - Lecture on advanced/current topics in SE
 
 # Class 23-24 (Apr 14, 16)
    - No lecture
