@@ -14,6 +14,10 @@
    - Unity Game
    - Guardian Angel
 
+# Class 27 (Apr 28)
+   - No Lecture / attendance optiona
+   - Answering questions, especially related to draft collaboration grade and how to improve it.
+
 # Class 26 (Apr 23)
    - Lecture on advanced/current topics in SE
 
