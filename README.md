@@ -7,9 +7,9 @@
    - Threaddit
    - Network Gurus
    - Let-us-cook
+   - Financial Agent
 
 # Apr 30 class project presentations
-   - Financial Agent
    - Hold Your Ground Studio
    - Unity Game
    - Guardian Angel
