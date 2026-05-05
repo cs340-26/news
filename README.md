@@ -1,6 +1,7 @@
 # Final report due: before Thursday, May 14
 
-# May 5 class project presentations
+# May 5 class project presentations please
+   - https://tennessee.zoom.us/j/82869216352
    - Mystery Gang 
    - OpenCourt
    - LockIn Studio
