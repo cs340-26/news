@@ -1,3 +1,16 @@
+# Scale
+  
+letter | percent
+-------|--------
+a       |95
+a-      |93
+b+      |90
+b       |88
+b-      |85
+c+      |83
+c       |79
+c-      |75
+
 # Final report due: before Thursday, May 14
 
 # May 5 class project presentations please
